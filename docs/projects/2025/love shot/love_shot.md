@@ -1,0 +1,12 @@
+---
+layout: '/src/layouts/project_layout.astro'
+landing_page_title: "love shot (2025.)"
+title: "love shot"
+date: '2025.'
+landing_image: '/src/pages/projects/2025/love shot/scan_20250411_0001-1.png'
+images:
+  - /src/pages/projects/2025/love shot/scan_20250411_0001-1.png
+---
+policromia em serigrafia
+polychromy screenprint  
+42 x 29,7 cm

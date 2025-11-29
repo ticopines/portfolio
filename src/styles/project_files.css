@@ -1,0 +1,31 @@
+.project p {
+    font-size: 1.1rem;
+    margin: 2rem 2rem;
+}
+
+.project h1 {
+    margin: 2rem 2rem;
+    line-height: 1.1;
+}
+
+.title_text {
+    padding-left: 2rem;
+}
+
+.project {
+    width: 100%;
+    max-width: 2000px;
+}
+
+.gallery {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.gallery img {
+    display: inline-block;
+    max-width: 70%;
+    margin: 1rem 0;
+    height: auto;
+}

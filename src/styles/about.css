@@ -1,0 +1,36 @@
+.flex-columns {
+    display: flex;
+    margin-left: 2rem;
+    margin-right: 1.5rem;
+    gap: 2rem;
+}
+
+.column {
+    flex: 1;
+}
+
+.category {
+    color: #002FA7;
+    text-transform: lowercase;
+}
+.side-column {
+    opacity: 50%;
+}
+
+.sentence-indent {
+    display: inline-block;
+    padding-left: 3.3em
+}
+
+.bold-numbers{
+    font-size: 1.1rem;
+}
+
+.bold-text {
+    font-family: Ronzino-Bold;
+}
+@media screen and (max-width: 768px) {
+    .flex-columns {
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,12 @@
+---
+layout: '/src/layouts/project_layout.astro'
+landing_page_title: "love letter (2024.)"
+title: "love letter"
+date: '2024.'
+landing_image: '/src/pages/projects/2024/love letter/79 love letter.png'
+images:
+  - /src/pages/projects/2024/love letter/79 love letter.png
+---
+bastão de óleo e tinta acrílica sobre painel  
+oil stick and acrylics on canvas  
+80 x 60 cm

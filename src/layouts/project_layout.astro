@@ -1,0 +1,29 @@
+---
+import Footer from "../components/footer.astro";
+const { title, date, images } = Astro.props.frontmatter;
+import Header from '../components/header.astro';
+import '../styles/global.css'
+import '../styles/project_files.css'
+---
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>{title}</title>
+    </head>
+    <body>
+        <Header />
+        <main class="project">
+            <div class="title_text">
+                <h1>{title}, {date}</h1>
+                <slot/> <!-- The markdown body -->
+            </div>
+            <div class="gallery">
+                {images && images.map((img) => (
+                        <img src={img} alt={title} width="120%" />
+                ))}
+            </div>
+        </main>
+        <!--<Footer />-->
+    </body>
+</html>
