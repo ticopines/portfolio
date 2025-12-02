@@ -1,7 +1,7 @@
 ---
 layout: '../../../../layouts/project_layout.astro'
-landing_page_title: "before_bed (2024.)"
-title: "before_bed"
+landing_page_title: "before bed (2024.)"
+title: "before bed"
 date: '2024.'
 landing_image: '/projects/2024/before_bed/before-bed.png'
 images:
