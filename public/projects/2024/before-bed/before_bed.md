@@ -1,11 +1,11 @@
 ---
 layout: '../../../../layouts/project_layout.astro'
-landing_page_title: "before-bed (2024.)"
-title: "before-bed"
+landing_page_title: "before_bed (2024.)"
+title: "before_bed"
 date: '2024.'
-landing_image: '/projects/2024/before-bed/before-bed.png'
+landing_image: '/projects/2024/before_bed/before_bed.png'
 images:
-  - /projects/2024/before-bed/before-bed.png
+  - /projects/2024/before_bed/before_bed.png
 ---
 serigrafia em papel  
 screenprint on paper  

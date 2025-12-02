@@ -6,7 +6,7 @@ date: '2022.'
 landing_image: '/public/projects/2022/1-Castiçal-com-prato-de-tomates-azuis.png'
 images: 
   - /projects/2022/1-Castiçal-com-prato-de-tomates-azuis.png
-  - /projects/2022/2-i can_t-handle-myself.png
+  - /projects/2022/2-i cant-handle-myself.png
   - /projects/2022/3-Vigília.png
   - /projects/2022/4-Banquete.png
   - /projects/2022/sombra.png
