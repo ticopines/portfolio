@@ -1,5 +1,5 @@
 ---
-layout: '/src/layouts/project_layout.astro'
+layout: '../../../layouts/project_layout.astro'
 landing_page_title: "second thoughts (2024.)"
 title: "second thoughts"
 date: '2024.'
