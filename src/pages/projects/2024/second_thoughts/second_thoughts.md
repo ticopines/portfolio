@@ -1,7 +1,7 @@
 ---
 layout: '../../../../layouts/project_layout.astro'
 landing_page_title: "second_thoughts (2024.)"
-title: "second_thoughts"
+title: "second thoughts"
 date: '2024.'
 landing_image: '/projects/2024/second_thoughts/IMG_20240229_0001-crop.png'
 images:

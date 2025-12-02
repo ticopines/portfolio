@@ -1,7 +1,7 @@
 ---
 layout: '../../../../layouts/project_layout.astro'
 landing_page_title: "forbidden_fruit, 2023."
-title: "forbidden_fruit"
+title: "forbidden fruit"
 date: '2023.'
 landing_image: '/projects/2023/forbidden_fruit/63-detalhe-IC_FlavioFreire_high_2.png'
 images:

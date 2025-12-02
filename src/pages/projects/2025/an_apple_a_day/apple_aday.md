@@ -1,7 +1,7 @@
 ---
 layout: '../../../../layouts/project_layout.astro'
-landing_page_title: "an_apple_a_day (2025.)"
-title: "an_apple_a_day"
+landing_page_title: "an apple a day (2025.)"
+title: "an apple a day"
 date: '2025.'
 landing_image: '/projects/2025/an_apple_a_day/sometimes-i-feel-very-foreign-1.png'
 images:

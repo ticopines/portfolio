@@ -1,7 +1,7 @@
 ---
 layout: '../../../../layouts/project_layout.astro'
 landing_page_title: "nexus_2060, 2023."
-title: "nexus_2060"
+title: "nexus 2060"
 date: '2023.'
 landing_image: '/projects/2023/nexus_2060/Elevador_espacial_ÍtaloCarajá.png'
 images:
