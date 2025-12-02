@@ -1,5 +1,5 @@
 ---
-layout: '../../../layouts/project_layout.astro'
+layout: '../../../../layouts/project_layout.astro'
 landing_page_title: "attach it like a sticker (2025.)"
 title: "attach it like a sticker"
 date: '2025.'

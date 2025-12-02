@@ -1,5 +1,5 @@
 ---
-layout: '../../../layouts/project_layout.astro'
+layout: '../../../../layouts/project_layout.astro'
 landing_page_title: "an apple a day (2025.)"
 title: "an apple a day"
 date: '2025.'

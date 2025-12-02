@@ -1,5 +1,5 @@
 ---
-layout: '../../../layouts/project_layout.astro'
+layout: '../../../../layouts/project_layout.astro'
 landing_page_title: "untitled (2025.)"
 title: "untitled"
 date: '2025.'

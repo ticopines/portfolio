@@ -1,5 +1,5 @@
 ---
-layout: '../../../layouts/project_layout.astro'
+layout: '../../../../layouts/project_layout.astro'
 landing_page_title: "the grass is always greener, until you notice it's fake (2024.)"
 title: "the grass is always greener, until you notice it's fake"
 date: '2024.'

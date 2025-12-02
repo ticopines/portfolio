@@ -3,9 +3,9 @@ layout: '../../../layouts/project_layout.astro'
 landing_page_title: "the grass is always greener, until you notice it's fake (2024.)"
 title: "the grass is always greener, until you notice it's fake"
 date: '2024.'
-landing_image: '/src/pages/projects/2024/the grass is greener/foto endireitada.png'
+landing_image: '/projects/2024/the grass is greener/foto endireitada.png'
 images:
-  - /src/pages/projects/2024/the grass is greener/foto endireitada.png
+  - /projects/2024/the grass is greener/foto endireitada.png
 ---
 instalação, grama sintética sobre painel  
 installation, synthetic grass on panel  

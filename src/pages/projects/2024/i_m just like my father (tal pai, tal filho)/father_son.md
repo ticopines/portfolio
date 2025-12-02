@@ -1,5 +1,5 @@
 ---
-layout: '../../../layouts/project_layout.astro'
+layout: '../../../../layouts/project_layout.astro'
 landing_page_title: "im just like my father (tai pai, tai filho) (2024.)"
 title: "im just like my father (tai pai, tai filho)"
 date: '2024.'

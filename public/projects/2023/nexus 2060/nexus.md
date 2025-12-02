@@ -1,13 +1,13 @@
 ---
-layout: '/src/layouts/project_layout.astro'
+layout: '../../../layouts/project_layout.astro'
 landing_page_title: "nexus 2060, 2023."
 title: "nexus 2060"
 date: '2023.'
-landing_image: '/src/pages/projects/2023/nexus 2060/Elevador_espacial_ÍtaloCarajá.png'
+landing_image: '/projects/2023/nexus 2060/Elevador_espacial_ÍtaloCarajá.png'
 images:
-  - /src/pages/projects/2023/nexus 2060/Elevador_espacial_ÍtaloCarajá.png
-  - /src/pages/projects/2023/nexus 2060/O_interruptor_na_parede_ÍtaloCarajá.png
-  - /src/pages/projects/2023/nexus 2060/O_progresso_e_a_harmonia_da_humanidade_ÍtaloCarajá.png
+  - /projects/2023/nexus 2060/Elevador_espacial_ÍtaloCarajá.png
+  - /projects/2023/nexus 2060/O_interruptor_na_parede_ÍtaloCarajá.png
+  - /projects/2023/nexus 2060/O_progresso_e_a_harmonia_da_humanidade_ÍtaloCarajá.png
 ---
 tríptico, giz pastel oleoso e ponta seca sobre papel, 96 x 66 cm cada  
 triptych, oil pastels and drypoint on paper, 96 x 66 cm each

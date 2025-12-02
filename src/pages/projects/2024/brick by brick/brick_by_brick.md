@@ -1,5 +1,5 @@
 ---
-layout: '../../../layouts/project_layout.astro'
+layout: '../../../../layouts/project_layout.astro'
 landing_page_title: "brick by brick (2024.)"
 title: "brick by brick"
 date: '2024.'

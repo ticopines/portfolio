@@ -1,5 +1,5 @@
 ---
-layout: '../../../layouts/project_layout.astro'
+layout: '../../../../layouts/project_layout.astro'
 landing_page_title: "forbidden fruit, 2023."
 title: "forbidden fruit"
 date: '2023.'

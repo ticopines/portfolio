@@ -1,5 +1,5 @@
 ---
-layout: '../../../layouts/project_layout.astro'
+layout: '../../../../layouts/project_layout.astro'
 landing_page_title: "nexus 2060, 2023."
 title: "nexus 2060"
 date: '2023.'
