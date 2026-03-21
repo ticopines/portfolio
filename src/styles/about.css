@@ -14,7 +14,7 @@
     text-transform: lowercase;
 }
 .side-column {
-    opacity: 50%;
+    opacity: 70%;
 }
 
 .sentence-indent {
@@ -29,8 +29,17 @@
 .bold-text {
     font-family: Ronzino-Bold;
 }
+
 @media screen and (max-width: 768px) {
     .flex-columns {
         flex-direction: column;
     }
+}
+
+.portrait{
+    width: 50%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 5%;
+    padding-right: 5%;
 }
