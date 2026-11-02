@@ -1,4 +1,4 @@
----
+s---
 layout: '../../../layouts/project_layout.astro'
 landing_page_title: "'still lifes 2022.'"
 title: "still lifes"
